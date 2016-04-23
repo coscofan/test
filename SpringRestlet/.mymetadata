@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SpringRestlet"
+  id="myeclipse.1371903213513"
+  context-root="/SpringRestlet"
+  j2ee-spec="6.0"
+  archive="SpringRestlet.war">
+  <attributes>
+    <attribute name="webrootdir" value="app" />
+  </attributes>
+</project-module>
+
