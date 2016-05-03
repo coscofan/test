@@ -1,15 +1,25 @@
 package org.cosco.restlet.application;
 
-import org.restlet.Context;
+import javax.ws.rs.core.Application;
+
 import org.restlet.ext.jaxrs.JaxRsApplication;
 
 public class RestJaxRsApplication extends JaxRsApplication{
 
-	public RestJaxRsApplication(Context context)
-	{
-		super(context);
-		this.add(new MyApplication());
+	/** 
+	* @Fields  : TODO(用一句话描述这个变量表示什么) 
+	*/ 
+	public RestJaxRsApplication(Application myApplication) {
+		super(myApplication);
+		// TODO Auto-generated constructor stub
 	}
 
+//	public RestJaxRsApplication(Context context, MyApplication myApplication)
+//	{
+////		super(context);
+//		this.add(new MyApplication());
+//	}
+
+	
 	
 }

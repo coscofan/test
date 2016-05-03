@@ -5,7 +5,7 @@
 	<classpathentry kind="lib" path="lib/org.restlet.jar" sourcepath="E:/common/java/restlet/restlet-jee-2.3.6/src/org.restlet"/>
 	<classpathentry kind="lib" path="lib/junit-4.3.jar"/>
 	<classpathentry kind="lib" path="lib/javax.ws.rs.jar"/>
-	<classpathentry kind="lib" path="lib/org.restlet.ext.jaxrs.jar"/>
+	<classpathentry kind="lib" path="lib/org.restlet.ext.jaxrs.jar" sourcepath="E:/common/java/restlet/restlet-jse-2.3.6/src/org.restlet.ext.jaxrs"/>
 	<classpathentry kind="lib" path="lib/org.restlet.ext.json.jar"/>
 	<classpathentry kind="lib" path="lib/json.jar"/>
 	<classpathentry kind="lib" path="lib/org.simpleframework.xml.jar"/>
